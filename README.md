@@ -1,6 +1,6 @@
 # Scrollbound-Depths
 
-Scrollbound Depths exists to challenge the notion that educational games must be bad. The aim with this game is to create an experience that plays the role of both education and gaming simultaneously and to do both well.
+Scrollbound Depths exists to challenge the notion that the educational part of educational games must compromise the experience. The aim with this game is to create an experience that plays the role of both education and gaming simultaneously and to do both well.
 
 In Scrollbound Depths, you must traverse a board of tiles. Every tile you land on will reveal the contents it hid underneath. While extra things that could be hidden under the tiles is yet to be decided, for the minimum viable product, various trading cards will be hidden underneath. Each of these trading cards will represent a challenge that you, our hero (or thief) must persevere through. The challenge? Well, that’s where the educational content comes in.
 
