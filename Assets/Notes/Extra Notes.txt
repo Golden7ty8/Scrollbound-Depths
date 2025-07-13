@@ -1,1 +1,0 @@
-With dice rolls for moving instead of just each turn moving only one step, turn becom much more interesting, much more ability to avoid certain tiles and move and much more ability to affect how the dice is via effects, also meaning maps can be bigger and more immersive, have camera during gameplay be sufficientyl zoomed in to give that sense of immersion.
