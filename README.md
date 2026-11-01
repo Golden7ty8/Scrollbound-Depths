@@ -7,3 +7,5 @@ In Scrollbound Depths, you must traverse a board of tiles. Every tile you land o
 Each trading card will quiz you on the custom educational content you chose for this adventure (later versions may include cards/events that do the teaching before the quizzing). If you answer correctly, you receive a reward of either health or food. If you answer incorrectly, you lose either food or health, and on top of that, the card then hides somewhere else in the level, now marked as a “hard challenge”. While not yet fully determined, hard challenges will likely have a different card design, sound design when revealed, and have different rewards and punishments (and this will likely be eventually customizable).
 
 In the minimum viable product of the game, the game is won if you successfully find the treasure and navigate back to the beginning. However, the objectives can become much more varied as development continues.
+
+mobile test
